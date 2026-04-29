@@ -1,0 +1,52 @@
+body{
+    background-color: rgba(204, 0, 255, 0.444);
+text-align: center;
+}
+
+p{
+ text-align: left;
+}
+
+h2{
+    color: chocolate;
+}
+
+h3{
+    color: aqua;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h4{
+  color: deepskyblue;
+}
+
+h5{
+    color: crimson;
+}
+
+h6{
+    color: cornflowerblue;
+}
+
+
+li{
+    color: deeppink;
+}
+
+img{
+   width: 250px;
+   height: 200px;;
+}
+
+ul{
+  transition: 0.3s;
+
+}
+
+li:hover{
+  color: chartreuse;
+  font-size: 30px;
+}
